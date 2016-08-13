@@ -1,1 +1,1 @@
-This is a directory that holds the analysis code.
+This directory holds the analysis code.
